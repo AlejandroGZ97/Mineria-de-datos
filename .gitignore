@@ -1,0 +1,8 @@
+P1/C/*
+
+#datasets ignorados
+*.csv
+
+#Check points
+.ipynb_checkpoints
+*/.ipynb_checkpoints
