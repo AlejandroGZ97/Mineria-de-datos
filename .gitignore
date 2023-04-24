@@ -1,5 +1,7 @@
-P1\C
+C/*
 
 #datasets ignorados
 *.csv
+
+#Check points
 .ipynb_checkpoints
